@@ -1,2 +1,8 @@
+# Eula Rice
 
-![image](https://user-images.githubusercontent.com/79361847/199001366-5bcd6e74-c338-4c4a-8294-bfc594de1647.png)
+I made this because I was bored once again.
+
+Distribution: Fedora
+WM: 13wm + XFCE
+
+![image](https://user-images.githubusercontent.com/79361847/199357853-e52339ec-9679-4475-913d-90abe912011b.png)
