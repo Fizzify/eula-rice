@@ -1,0 +1,18 @@
+[2022-11-01 20:37:57.964] [exthost] [info] Extension host with pid 29611 started
+[2022-11-01 20:37:58.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+[2022-11-01 20:37:58.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-01 20:37:58.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-11-01 20:37:58.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-01 20:37:58.300] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-11-01 20:37:58.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-11-01 20:37:58.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-11-01 20:37:58.680] [exthost] [info] Eager extensions activated
+[2022-11-01 20:37:58.705] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-01 20:37:58.705] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-01 20:37:58.705] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-01 20:37:58.705] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-11-01 20:37:58.706] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-01 20:37:59.089] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-01 20:38:01.769] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-11-01 20:38:01.780] [exthost] [error] Error: ENOENT: no such file or directory, open '/home/ino/.config/VSCodium/User/globalStorage/vscodevim.vim/.registers'
+[2022-11-01 20:38:01.780] [exthost] [info] Extension host with pid 29611 exiting with code 0

@@ -1,0 +1,28 @@
+{
+  "workbench.colorTheme": "Nord Deep",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.cursorWidth": 3,
+  "editor.fontFamily": "'JetBrainsMono Nerd Font Mono', 'monospace', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 18,
+  "editor.minimap.enabled": false,
+  "editor.bracketPairColorization.enabled": false,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.smoothScrolling": true,
+  "editor.lineHeight": 1.8,
+  "editor.cursorBlinking": "smooth",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.menuBarVisibility": "toggle",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

@@ -1,0 +1,12 @@
+app=feh
+last_user=
+last_extension=png
+screenshot_dir=file:///home/ino/Pictures
+enable_imgur_upload=true
+show_in_folder=false
+action=2
+delay=1
+region=1
+show_mouse=0
+show_border=1
+
